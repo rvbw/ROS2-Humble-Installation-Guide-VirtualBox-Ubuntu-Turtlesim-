@@ -56,9 +56,6 @@ Make sure you are using Ubuntu 22.04.
 4. Source ROS:
    source /opt/ros/humble/setup.bash
 
-(Optional) Add to .bashrc:
-   echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
-
 ---
 
 # Step 4: Install and Run Turtlesim
@@ -86,8 +83,3 @@ The task required:
 - Running the Turtlesim package.
 
 All steps were successfully completed and documented in this repository.
-
----
-
-# 👤 Author
-Completed as part of ROS2 training and learning practice.
